@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26738
     wikipedia: http://en.wikipedia.org/wiki/Florence_Bell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24794#The-ArbiterA-Novel
 gutenberg_issued: '2008-03-10'
 gutenberg_type: Text
 identifiers:
